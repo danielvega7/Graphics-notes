@@ -15,6 +15,7 @@
 		11111EDF27453C2E0011C89D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11111EDD27453C2E0011C89D /* Main.storyboard */; };
 		11111EE127453C310011C89D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11111EE027453C310011C89D /* Assets.xcassets */; };
 		11111EE427453C310011C89D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11111EE227453C310011C89D /* LaunchScreen.storyboard */; };
+		11F03DE1274BE01A00836EA7 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11F03DE0274BE01A00836EA7 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		11111EDE27453C2E0011C89D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		11111EE027453C310011C89D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11111EE327453C310011C89D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		11F03DE0274BE01A00836EA7 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				11111ED927453C2E0011C89D /* GameScene.swift */,
 				11111EDB27453C2E0011C89D /* GameViewController.swift */,
 				11111EDD27453C2E0011C89D /* Main.storyboard */,
+				11F03DE0274BE01A00836EA7 /* ViewController2.swift */,
 				11111EE027453C310011C89D /* Assets.xcassets */,
 				11111EE227453C310011C89D /* LaunchScreen.storyboard */,
 			);
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11111EDA27453C2E0011C89D /* GameScene.swift in Sources */,
+				11F03DE1274BE01A00836EA7 /* ViewController2.swift in Sources */,
 				11111EDC27453C2E0011C89D /* GameViewController.swift in Sources */,
 				11111ED427453C2E0011C89D /* AppDelegate.swift in Sources */,
 			);
